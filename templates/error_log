@@ -1,0 +1,12 @@
+[26-Sep-2020 08:14:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/shawkata/public_html/apps/fogzee/templates/template-1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shawkata/public_html/apps/fogzee/templates/template-1.php on line 18
+[26-Sep-2020 08:14:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/shawkata/public_html/apps/fogzee/templates/template-1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shawkata/public_html/apps/fogzee/templates/template-1.php on line 18
+[26-Sep-2020 08:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/shawkata/public_html/apps/fogzee/templates/template-1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/shawkata/public_html/apps/fogzee/templates/template-1.php on line 18
